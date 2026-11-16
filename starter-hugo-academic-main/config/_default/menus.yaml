@@ -19,8 +19,8 @@ main:
   - name: Publications
     url: '#publications'
     weight: 20
-  - name: Popularisation
-    url: '#popularisation'
+  - name: Outreach
+    url: '#outreach'
     weight: 30
   - name: Courses
     url: '#courses'
