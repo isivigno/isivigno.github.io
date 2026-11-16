@@ -176,7 +176,7 @@ sections:
       columns: '2'
       view: citation
   - block: portfolio
-    id: popularisation
+    id: outreach
     content:
       title: Maths and computer science popularisation
       filters:
